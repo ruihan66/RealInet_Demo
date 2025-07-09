@@ -1,0 +1,17 @@
+# OMNeT++、自動建置輸出
+out
+results
+.exe
+.o
+.d
+.log
+
+# IDE 設定檔
+.vscode
+.idea
+
+# OMNeT++ 自動產生
+Makefile
+Makefile.inc
+config.mk
+.opp
